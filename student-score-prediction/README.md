@@ -39,21 +39,6 @@ The project includes a modern **Streamlit dashboard** where users can interact w
 
 ---
 
-# 📷 Application Preview
-
-Add your dashboard screenshot here after uploading it to the repository.
-
-```
-student-score-prediction/
-└── images/
-    └── dashboard.png
-```
-
-Then display it like this:
-
-![Student Score Prediction Dashboard](images/dashboard.png)
-
----
 
 # 🧠 Machine Learning Model
 
